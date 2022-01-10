@@ -1,0 +1,6 @@
+/truffle-config.js
+/package-lock.*
+/.env*
+/build
+/node_modules
+.DS_Store
